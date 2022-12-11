@@ -1,6 +1,5 @@
 i = 0
 total = 0
-
 num = input("Enter a number or press Enter to quit: ")
 
 while num:
